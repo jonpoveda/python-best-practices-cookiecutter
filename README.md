@@ -1,6 +1,6 @@
-# Python Best Practices Cookiecutter
+# Python project template
 
-Best practices [cookiecutter](https://github.com/audreyr/cookiecutter) template as described in this [blogpost](https://sourcery.ai/blog/python-best-practices/).
+Cookiecutter's template based on [python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter).
 
 ## Features
 - Testing with [pytest](https://docs.pytest.org/en/latest/)
